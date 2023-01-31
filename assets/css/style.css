@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* header */
+/* the below css changes affect all the headers */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +40,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* the below affects all the text in a and p*/
 a {
     color: #ffffff;
     text-decoration: none;
